@@ -19,7 +19,8 @@ Clone the ShareCareData repository using the following command:
 ```bash
 git clone https://github.com/BhavanSai12/ShareCareData
 ```
-Alternatively, you can download the zip file from this link and extract it to your desired location.
+Alternatively, you can download the zip file from [this link](https://github.com/BhavanSai12/ShareCareData) and extract it to your desired location.
+
 
 ## Install Dependencies
 Navigate to the project directory and install the required dependencies:
