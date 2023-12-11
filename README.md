@@ -12,4 +12,4 @@ install requirements.
 pip install openpyxl pandas beautifulsoup4 requests
 
 
-USA.json should change extract state 
+USA.json should change with extract state details.
